@@ -1,0 +1,5 @@
+@media(max-width:1000px){.grid{grid-template-columns:repeat(2,1fr)}.g4{grid-template-columns:repeat(2,1fr)}.promise{grid-template-columns:repeat(2,1fr)}.foot{grid-template-columns:1fr 1fr}.reviews{grid-template-columns:1fr}.shop{grid-template-columns:1fr}.two,.pd{grid-template-columns:1fr}.cats{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:760px){.top .wrap span:nth-child(2){display:none}#burger{display:block}.acts .btn{display:none}
+.menu{display:none;position:absolute;left:0;right:0;top:100%;background:#fff;flex-direction:column;gap:0;padding:8px 4%;box-shadow:0 10px 20px #0001}.menu.open{display:flex}.menu a{padding:12px 0}
+.hero-g,.promo{grid-template-columns:1fr}.promo{padding:30px 24px 0}.hero-img img{margin:auto}.sec h2,.promo h2{font-size:28px}.sec-h{flex-direction:column;align-items:start}.fg{grid-template-columns:1fr}.news{padding:22px}.nf{max-width:none}}
+@media(max-width:480px){.grid,.g4{gap:12px}.card h3{font-size:14px}.price{font-size:16px}.promise,.foot{grid-template-columns:1fr}.cats{grid-template-columns:repeat(2,1fr)}.ci{grid-template-columns:60px 1fr}.ci img{width:60px;height:60px}}
